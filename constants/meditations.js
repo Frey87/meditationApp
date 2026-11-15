@@ -1,0 +1,48 @@
+
+export const meditations = [
+  {
+    id: "1",
+    title: "Mindful Breathing",
+    category: "Calmness",
+    duration: 10,
+    description: "Relax your mind through guided breathing.",
+    color: "#E5EEE8",
+    icon: "weather-windy",
+  },
+  {
+    id: "2",
+    title: "Body Scan Meditation",
+    category: "Relaxation",
+    duration: 15,
+    description: "Release tension and reconnect with your body.",
+    color: "#EEEAF5",
+    icon: "human-handsdown",
+  },
+  {
+    id: "3",
+    title: "Morning Calm",
+    category: "Mindfulness",
+    duration: 10,
+    description: "Make time for yourself.",
+    color: "#E5EEE8",
+    icon: "weather-sunny",
+  },
+  {
+    id: "4",
+    title: "Deep Relaxation",
+    category: "Relaxation",
+    duration: 15,
+    description: "Restore your inner balance.",
+    color: "#EEEAF5",
+    icon: "leaf",
+  },
+  {
+    id: "5",
+    title: "Evening Reflection",
+    category: "Mindfulness",
+    duration: 20,
+    description: "Reflect on your day with gratitude.",
+    color: "#E5EEE8",
+    icon: "weather-night",
+  },
+];
