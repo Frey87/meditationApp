@@ -251,4 +251,20 @@ As a **user**, I want to **switch between light and dark modes** so that **I can
 - **Total estimated story points:** 62
 - **Coverage:** Registration, login, homepage, exercise details, Favorites, reminders, sharing, logout, and theme settings.
 
+
+## UX/UI Design
+
+Application: Mindful Moments
+
+Design tool: Figma
+
+Project: Meditation_App_Wireframes
+
+Figma prototype: https://www.figma.com/design/WyZM5JRpIb2JhFuwuSkDDT/Meditation_App_Wireframes?node-id=0-1&t=vG7txqfcBcVtnmqf-1
+
+The design includes eight mobile screens and a reusable UI component kit.
+
+All exported screen designs are available in the `design/` directory.
+
+
 > **Note:** Story points are planning estimates supplied for this submission. The lab specifies the user-story format but does not prescribe particular point values. The password-storage safeguard in US-04 is an implementation security recommendation beyond the lab's basic local-storage requirement.
